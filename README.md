@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Sushant2518/SDE-DSA/tree/main/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -29,6 +30,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
@@ -44,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0084-largest-rectangle-in-histogram/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
