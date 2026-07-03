@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0006-zigzag-conversion/) | Medium |
 | [0058-length-of-last-word](https://github.com/Sushant2518/SDE-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -63,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushant2518/SDE-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
