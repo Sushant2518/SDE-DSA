@@ -1,20 +1,38 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
-        // Brute force approach 
-        String ans = "";
+        //Approach 1 : Brute force approach string concatenation T.C = o(n^2) S.C = o(n)
+        // String ans = "";
+        // int i = 0;
+
+        // while(i<=word1.length()-1 || i<=word2.length()-1){
+        //     if(i<=word1.length()-1){
+        //         ans+=word1.charAt(i);
+        //     }
+
+        //     if(i<=word2.length()-1){
+        //         ans+=word2.charAt(i);
+        //     }
+        //     i++;
+        // }
+        // return ans;
+
+        // Approach 2 : Using StringBuilder T.C = o(n) S.c = o(m+n)
+        StringBuilder ans = new StringBuilder();
         int i = 0;
 
         while(i<=word1.length()-1 || i<=word2.length()-1){
             if(i<=word1.length()-1){
-                ans+=word1.charAt(i);
+                ans.append(word1.charAt(i));
             }
 
             if(i<=word2.length()-1){
-                ans+=word2.charAt(i);
+                ans.append(word2.charAt(i));
             }
             i++;
         }
-        return ans;
+        return ans.toString();
+
+
         
 
         // Approach 3
