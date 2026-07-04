@@ -32,7 +32,7 @@ class Solution {
         // }
         // return ans.toString();
 
-        // Approach 3
+        // Approach 3 using char[] T.C = o(m+n) S.c = o(m+n)
         char[] ans = new char[word1.length()+word2.length()];
         int i = 0;
         int k = 0;
@@ -51,6 +51,8 @@ class Solution {
         }
         return String.valueOf(ans);
 
+
+        // below code shorten in apporch 3
         // char[] ans = new char[word1.length()+word2.length()];
         // int i = 0;
         // int j = 0;
