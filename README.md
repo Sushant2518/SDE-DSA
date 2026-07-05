@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0006-zigzag-conversion/) | Medium |
 | [0058-length-of-last-word](https://github.com/Sushant2518/SDE-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Array
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Sushant2518/SDE-DSA/tree/main/0066-plus-one/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
