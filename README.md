@@ -20,6 +20,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
+| [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sushant2518/SDE-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Hash Table
@@ -71,4 +72,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
