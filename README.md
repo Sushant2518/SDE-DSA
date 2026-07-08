@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Sushant2518/SDE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0495-teemo-attacking](https://github.com/Sushant2518/SDE-DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sushant2518/SDE-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -82,6 +83,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Sushant2518/SDE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
