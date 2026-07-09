@@ -21,6 +21,7 @@
 | [0053-maximum-subarray](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Sushant2518/SDE-DSA/tree/main/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -78,6 +79,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Sushant2518/SDE-DSA/tree/main/0443-string-compression/) | Medium |
@@ -91,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
