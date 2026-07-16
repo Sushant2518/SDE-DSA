@@ -24,6 +24,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -52,6 +53,7 @@
 | [0053-maximum-subarray](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sushant2518/SDE-DSA/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
 ## Backtracking
@@ -93,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Sushant2518/SDE-DSA/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushant2518/SDE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
