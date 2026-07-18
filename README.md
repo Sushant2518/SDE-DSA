@@ -33,10 +33,12 @@
 | [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sushant2518/SDE-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0001-two-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@
 | [0066-plus-one](https://github.com/Sushant2518/SDE-DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushant2518/SDE-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,8 +106,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
