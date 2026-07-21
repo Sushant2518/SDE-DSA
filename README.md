@@ -9,6 +9,7 @@
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/Sushant2518/SDE-DSA/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Sushant2518/SDE-DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0412-fizz-buzz](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Dynamic Programming
@@ -80,6 +82,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Sushant2518/SDE-DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Binary Search
