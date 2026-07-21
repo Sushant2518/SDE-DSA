@@ -14,6 +14,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
