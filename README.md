@@ -49,6 +49,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Sushant2518/SDE-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Sushant2518/SDE-DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0412-fizz-buzz/) | Easy |
