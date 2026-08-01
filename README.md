@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0006-zigzag-conversion/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Sushant2518/SDE-DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Sushant2518/SDE-DSA/tree/main/0067-add-binary/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -53,6 +54,7 @@
 | [0007-reverse-integer](https://github.com/Sushant2518/SDE-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Sushant2518/SDE-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Sushant2518/SDE-DSA/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Sushant2518/SDE-DSA/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -86,6 +88,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Sushant2518/SDE-DSA/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Sushant2518/SDE-DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -138,4 +141,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Sushant2518/SDE-DSA/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
