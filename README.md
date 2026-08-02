@@ -47,6 +47,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sushant2518/SDE-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -145,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Sushant2518/SDE-DSA/tree/main/0067-add-binary/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
