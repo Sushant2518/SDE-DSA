@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushant2518/SDE-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +139,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -152,4 +157,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0021-merge-two-sorted-lists/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
