@@ -2,11 +2,11 @@ class Solution {
     public String mergeAlternately(String word1, String word2) {
         char[] arr = new char[word1.length()+word2.length()];
 
-        if(word1.length()<1 && word2.length()<1){
+        if(word1.length() < 1 && word2.length() < 1){
             return String.valueOf(arr);
         }
 
-        int i = 0;
+        int i =0;
         int k = 0;
 
         while(i<=word1.length()-1 || i<=word2.length()-1){
@@ -21,6 +21,7 @@ class Solution {
             }
             i++;
         }
+
         return String.valueOf(arr);
     }
 }
