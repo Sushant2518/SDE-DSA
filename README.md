@@ -41,6 +41,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sushant2518/SDE-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sushant2518/SDE-DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushant2518/SDE-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0704-binary-search](https://github.com/Sushant2518/SDE-DSA/tree/main/0704-binary-search/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sushant2518/SDE-DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Sushant2518/SDE-DSA/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sushant2518/SDE-DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushant2518/SDE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sushant2518/SDE-DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +137,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sushant2518/SDE-DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
