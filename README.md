@@ -15,6 +15,7 @@
 | [0443-string-compression](https://github.com/Sushant2518/SDE-DSA/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sushant2518/SDE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1927-sum-game](https://github.com/Sushant2518/SDE-DSA/tree/main/1927-sum-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Array
@@ -68,6 +69,7 @@
 | [0371-sum-of-two-integers](https://github.com/Sushant2518/SDE-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sushant2518/SDE-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1927-sum-game](https://github.com/Sushant2518/SDE-DSA/tree/main/1927-sum-game/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
@@ -132,6 +134,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushant2518/SDE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Sushant2518/SDE-DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [1927-sum-game](https://github.com/Sushant2518/SDE-DSA/tree/main/1927-sum-game/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sushant2518/SDE-DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -187,4 +190,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sushant2518/SDE-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/Sushant2518/SDE-DSA/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
