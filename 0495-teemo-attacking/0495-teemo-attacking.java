@@ -6,14 +6,13 @@ class Solution {
             int currentAttack = timeSeries[i];
             int nextAttack = timeSeries[i+1];
 
-            // if next attack occurs before current duration ends, include difference
             if(nextAttack <= (currentAttack + duration - 1)){
                 total += nextAttack - currentAttack;
-            } else{ // otherwise full duration
+            } else{ 
                 total += duration;
             }
         }
-        total += duration; // last attack
+        total += duration;
         return total;
     }
 }
