@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/Sushant2518/SDE-DSA/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushant2518/SDE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0495-teemo-attacking](https://github.com/Sushant2518/SDE-DSA/tree/main/0495-teemo-attacking/) | Easy |
@@ -84,6 +85,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sushant2518/SDE-DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/Sushant2518/SDE-DSA/tree/main/0221-maximal-square/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +198,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/Sushant2518/SDE-DSA/tree/main/1927-sum-game/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0221-maximal-square](https://github.com/Sushant2518/SDE-DSA/tree/main/0221-maximal-square/) | Medium |
 <!---LeetCode Topics End-->
