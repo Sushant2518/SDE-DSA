@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Sushant2518/SDE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0221-maximal-square](https://github.com/Sushant2518/SDE-DSA/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushant2518/SDE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushant2518/SDE-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/Sushant2518/SDE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/Sushant2518/SDE-DSA/tree/main/0704-binary-search/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sushant2518/SDE-DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -144,6 +146,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sushant2518/SDE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushant2518/SDE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sushant2518/SDE-DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Sorting
@@ -191,6 +194,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sushant2518/SDE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sushant2518/SDE-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
