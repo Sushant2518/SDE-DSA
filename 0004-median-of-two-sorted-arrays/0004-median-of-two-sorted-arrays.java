@@ -29,9 +29,6 @@ class Solution {
         int aMid = aLen * k / (aLen + bLen);
         int bMid = k - aMid -1;
 
-        // aMid = aMid + aStart;
-        // bMid = k - aMid -1;
-
         aMid = aMid + aStart;
         bMid = bMid + bStart;
 
