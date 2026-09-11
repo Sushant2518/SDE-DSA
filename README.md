@@ -8,6 +8,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Sushant2518/SDE-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Sushant2518/SDE-DSA/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/Sushant2518/SDE-DSA/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Sushant2518/SDE-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sushant2518/SDE-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -82,6 +83,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sushant2518/SDE-DSA/tree/main/0055-jump-game/) | Medium |
+| [0072-edit-distance](https://github.com/Sushant2518/SDE-DSA/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sushant2518/SDE-DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
