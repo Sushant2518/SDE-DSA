@@ -33,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushant2518/SDE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sushant2518/SDE-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sushant2518/SDE-DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0136-single-number](https://github.com/Sushant2518/SDE-DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Sushant2518/SDE-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sushant2518/SDE-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sushant2518/SDE-DSA/tree/main/Java/0198-house-robber/) | Medium |
@@ -179,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Sushant2518/SDE-DSA/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/Sushant2518/SDE-DSA/tree/main/0136-single-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushant2518/SDE-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
